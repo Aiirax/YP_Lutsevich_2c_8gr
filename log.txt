@@ -1,0 +1,11 @@
+commit e61794f3e8121873b7b287030f0e05f9bb58d466 (HEAD -> master)
+Author: Airax <airaxlanl@gmail.com>
+Date:   Tue Feb 9 15:00:59 2021 +0300
+
+    add .gitignore
+
+commit dbf05e4fcf7d287c61a9dcdd4d054ebb31bec8d2
+Author: Airax <airaxlanl@gmail.com>
+Date:   Tue Feb 9 14:10:20 2021 +0300
+
+    add .gitignore
